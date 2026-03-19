@@ -15,7 +15,7 @@ This repository is designed for developing a Database Management System using My
 
 ---
 
-##Key Features
+## Key Features
 
 - Structured relational database design
 - Efficient data storage and retrieval
@@ -26,7 +26,7 @@ This repository is designed for developing a Database Management System using My
 
 ---
 
-##Project Structure
+## Project Structure
 
 - schema/ → Database structure
 - data/ → Sample data
@@ -37,14 +37,14 @@ This repository is designed for developing a Database Management System using My
 
 ---
 
-##Getting Started
+## Getting Started
 
 CREATE DATABASE project_db;
 USE project_db;
 
 ---
 
-##Advanced Concepts
+## Advanced Concepts
 
 - JOIN operations
 - Subqueries
@@ -56,12 +56,12 @@ USE project_db;
 
 ---
 
-##Collaboration
+## Collaboration
 
 This repository supports team collaboration through structured contributions and version control.
 
 ---
 
-##Goal
+## Goal
 
 To build a scalable and efficient database system using best practices.
