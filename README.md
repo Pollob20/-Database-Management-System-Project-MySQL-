@@ -9,7 +9,7 @@
 The project focuses on building a scalable, well-optimized, and production-ready database system by following industry best practices in schema design, query optimization, and data integrity management. Throughout the development lifecycle, this repository will be used to design, implement, test, and refine all components of the system in a collaborative and professional environment.
 
 
-##Overview
+## Overview
 
 This repository is designed for developing a Database Management System using MySQL. It supports structured development, collaboration, and implementation of database concepts.
 
