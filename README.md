@@ -1,4 +1,4 @@
-# 🚀 Database Management System (DBMS) Project
+# Database Management System (DBMS) Project
 
 This repository serves as the central development workspace for our Database Management System (DBMS) project. It is designed to enable structured collaboration among team members, ensuring efficient contribution, version control, and continuous integration throughout the development lifecycle.
 
@@ -6,13 +6,13 @@ The primary goal of this project is to build a scalable, efficient, and producti
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project focuses on developing a robust Database Management System using MySQL. It emphasizes clean architecture, efficient data handling, and real-world database implementation techniques.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * Well-structured relational database design
 * Optimized data storage and retrieval
@@ -23,7 +23,7 @@ This project focuses on developing a robust Database Management System using MyS
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 schema/        → Database structure and schema definitions  
@@ -36,7 +36,7 @@ indexes/       → Indexing for performance optimization
 
 ---
 
-## ⚙️ Getting Started
+##  Getting Started
 
 To initialize the project database, run the following SQL commands:
 
@@ -47,7 +47,7 @@ USE project_db;
 
 ---
 
-## 🧠 Advanced Concepts Implemented
+##  Advanced Concepts Implemented
 
 * JOIN operations
 * Subqueries
@@ -59,13 +59,13 @@ USE project_db;
 
 ---
 
-## 🤝 Collaboration
+##  Collaboration
 
 This repository is structured to support effective team collaboration. Team members can contribute through version control practices, maintain code consistency, and ensure seamless integration of features. Proper documentation and modular design help in scaling and maintaining the project efficiently.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To develop a high-performance, scalable, and maintainable database system that reflects real-world industry standards and demonstrates strong understanding of database design and management principles.
 
